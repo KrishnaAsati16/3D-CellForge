@@ -1,6 +1,5 @@
 # 3D Model Studio
 
-[English](README.md) | 
 
 AI-powered interactive 3D model generation, inspection, and presentation studio.
 
