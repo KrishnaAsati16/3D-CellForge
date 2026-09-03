@@ -1,14 +1,11 @@
 # 3D Model Studio
 
-[English](README.md) | [中文](README.zh-CN.md)
+[English](README.md) | 
 
 AI-powered interactive 3D model generation, inspection, and presentation studio.
 
 3D Model Studio is a React + Three.js prototype for turning uploaded reference images or GLB files into a polished interactive 3D workspace. It supports live WebGL orbit controls, a left model library / center stage / right tools workbench, screenshots, GLB export, collapsed upload history, demo presentation mode, a generation queue, and optional image-to-3D providers for generating real 3D models from uploaded reference images.
 
-## Demo
-
-[![3D Model Studio demo](docs/demo/3DCellForge-demo-cover.jpg)](docs/demo/3DCellForge-demo-2026-05-10.mp4)
 
 Open the demo video: [Demo MP4](docs/demo/3DCellForge-demo-2026-05-10.mp4)
 
